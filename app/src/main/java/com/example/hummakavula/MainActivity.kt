@@ -4,6 +4,9 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.hummakavula.databinding.ActivityMainBinding
 
+/**
+ * Main Acitivty for the app (DELETE LATER)
+ */
 class MainActivity : AppCompatActivity() {
 
     // Declare the binding variable
