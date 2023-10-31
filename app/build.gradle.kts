@@ -52,6 +52,9 @@ dependencies {
 
     // Add the ViewModel dependencies for creating ViewModels to store data
     implementation("androidx.activity:activity-ktx:1.1.0")
+    implementation("androidx.annotation:annotation:1.6.0")
+    implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.6.2")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2")
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
